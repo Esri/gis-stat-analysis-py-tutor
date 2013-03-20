@@ -52,6 +52,6 @@ limitations under the License.
 
 A copy of the license is available in the repository's [license.txt]( https://github.com/ArcGIS/devsummit13-opensourcetools.git/master/license.txt) file.
 
-[](Esri Tags: ArcGIS OpenSource Python Statistics SciPy PANDAS PySAL R NumPy)
+[](Esri Tags: Devsummit 2013 ArcGIS OpenSource Python Statistics SciPy PANDAS PySAL R NumPy)
 [](Esri Language: Python R)?
 
