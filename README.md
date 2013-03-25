@@ -1,7 +1,8 @@
-devsummit13-opensourcetools
+gis-stat-analysis-py-tutor.git
 ===========================
 
-Contains documentation and workflows that demonstrate how to leverage open-source data analysis packages within the ArcGIS Environment
+Contains documentation and workflows in the form of IPython Notebooks that demonstrate 
+how to leverage open-source data analysis packages within the ArcGIS Environment.
 
 ## Features
 * Data - Test data set for simple workflows
@@ -50,8 +51,8 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 
-A copy of the license is available in the repository's [license.txt]( https://github.com/ArcGIS/devsummit13-opensourcetools.git/master/license.txt) file.
+A copy of the license is available in the repository's [license.txt]( https://github.com/ESRI/gis-stat-analysis-py-tutor/master/license.txt) file.
 
 [](Esri Tags: Devsummit 2013 ArcGIS OpenSource Python Statistics SciPy PANDAS PySAL R NumPy)
-[](Esri Language: Python R)?
+[](Esri Language: Python IPython)?
 
