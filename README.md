@@ -1,7 +1,7 @@
-gis-stat-analysis-py-tutor.git
-===========================
+gis-stat-analysis-py-tutor
+==========================
 
-Contains documentation and workflows in the form of IPython Notebooks that demonstrate 
+Contains documentation and workflows in the form of [IPython Notebooks](http://ipython.org/notebook.html) that demonstrate 
 how to leverage open-source data analysis packages within the ArcGIS Environment.
 
 ## Features
@@ -54,5 +54,5 @@ limitations under the License.
 A copy of the license is available in the repository's [license.txt]( https://github.com/ESRI/gis-stat-analysis-py-tutor/master/license.txt) file.
 
 [](Esri Tags: Devsummit 2013 ArcGIS OpenSource Python Statistics SciPy PANDAS PySAL R NumPy)
-[](Esri Language: Python IPython)?
+[](Esri Language: Python IPython)
 
