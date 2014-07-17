@@ -25,7 +25,8 @@ how to leverage open-source data analysis packages within the ArcGIS Environment
 
 ## Resources
 
-* [Integrating Open-Source Statistical Packages with ArcGIS (UC2012)](http://video.esri.com/watch/1925/integrating-open_dash_source-statistical-packages-with-arcgis)
+* [Integrating Open Source Statistical Pacakges with ArcGIS (UC2014 Presentation)](https://github.com/Esri/gis-stat-analysis-py-tutor/raw/master/presentations/UC14_OpenSourceTools.pdf) 0.5MB PDF
+* [Integrating Open-Source Statistical Packages with ArcGIS (UC2012, Video)](http://video.esri.com/watch/1925/integrating-open_dash_source-statistical-packages-with-arcgis)
 * [Spatial Statistics Resources Blog](http://blogs.esri.com/esri/arcgis/2010/07/13/spatial-statistics-resources/)
 
 ## Issues
