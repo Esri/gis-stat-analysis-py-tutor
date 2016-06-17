@@ -1,4 +1,4 @@
-"""
+﻿"""
 Author(s): Luc Anselin, Sergio Rey, Xun Li and Mark Janikas
 """
 
@@ -35,6 +35,10 @@ def swm2Weights(ssdo, swmfile):
     #### SWM May NOT be a Subset of the Data ####
     if ssdo.numObs > swm.numObs:
         ARCPY.AddIDMessage("ERROR", 842, ssdo.numObs, swm.numObs)
+        raise SystemExit()
+
+    if swm.masterField != ssdo.masterField:
+        ARCPY.AddWarning("ERROR", 938)
         raise SystemExit()
         
     #### Parse All SWM Records ####
